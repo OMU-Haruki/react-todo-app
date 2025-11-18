@@ -2,6 +2,8 @@
 
 優先度と期限だけに集中できる、最小構成のTodoアプリです。
 
+リンク：https://omu-haruki.github.io/react-todo-app/
+
 ![Minimal Todo Radar dashboard](public/preview.png)
 
 ## コンセプト・主要機能
@@ -27,7 +29,7 @@
 - ユーティリティ: dayjs (relativeTime), uuid, localStorage persistence, custom hooks-less state構成
 - 品質: ESLint 9 / TypeScript strict, npm scripts (`dev`, `build`, `lint`, `preview`)
 
-制作時間：20時間
+開発期間: 2025.11.13 ~ 2025.11.18 (約20時間)
 
 
 
